@@ -63,7 +63,7 @@ These people have all subscribed to the `True Supporter` tier on Patreon to supp
 <table>
 <tr>
 <td align="center">
-    <img src="https://cdn.discordapp.com/avatars/196098063092154368/90f1a7202955dac7a6c685cca3181ab1.webp" width="100px;" alt="Kraken"/><br />
+    <img src="https://avatars.githubusercontent.com/u/7726355?s=200&v=4" width="100px;" alt="Kraken"/><br />
     <strong>Kraken</strong><br />
 </td>
 <td align="center">
@@ -75,7 +75,7 @@ These people have all subscribed to the `True Supporter` tier on Patreon to supp
     <a href="https://twitter.com/def_con42" target="_blank" rel="noreferrer noopener"><strong>DefCon42</strong></a><br />
 </td>
 <td align="center">
-    <img src="https://cdn.discordapp.com/avatars/629231564261425163/a_36cc7d2940b4ffb8a660b1076ab2087f.webp" width="100px;" alt="Justxn"/><br />
+    <img src="https://avatars.githubusercontent.com/u/47639757?v=4" width="100px;" alt="Justxn"/><br />
     <strong>Justxn</strong><br />
 </td>
 <td align="center">
@@ -133,23 +133,23 @@ These people have either donated or subscribed to the most basic patron tier to 
 <table>
 <tr>
     <td align="center">
-        <img src="https://cdn.discordapp.com/avatars/284122164582416385/ebaa1b63191ce70e48ae24f32f452773.webp" width="25px;" /><br />
+        <img src="https://avatars.githubusercontent.com/u/25572140?v=4" width="25px;" /><br />
         <strong>aetheryx</strong>
     </td>
     <td align="center">
-        <img src="https://cdn.discordapp.com/avatars/216782345779281921/d4b651b606f108cd2f96a19af68f942f.png" width="25px;" /><br />
+        <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png" width="25px;" /><br />
         <strong>JBeauDee</strong>
     </td>
         <td align="center">
-        <img src="https://cdn.discordapp.com/avatars/261673576216789004/31d590fb92329e270a6225a13d500c1d.png" width="25px;" /><br />
+        <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png" width="25px;" /><br />
         <strong>vantiss</strong>
     </td>
         <td align="center">
-        <img src="https://cdn.discordapp.com/avatars/122204411962327043/7f44a9b036b9e2691f4e81d9e34a78b4.webp" width="25px;" /><br />
+        <img src="https://avatars.githubusercontent.com/u/5105153?v=4" width="25px;" /><br />
         <strong>xstefen</strong>
     </td>
     <td align="center">
-        <img src="https://cdn.discordapp.com/avatars/219400174869413888/7c88015869990ba97b614b1ac784f8e8.png" width="25px;" /><br />
+        <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png" width="25px;" /><br />
         <strong>『Sorey』</strong>
     </td>
     <td align="center">
@@ -157,11 +157,11 @@ These people have either donated or subscribed to the most basic patron tier to 
         <strong>LiVeR</strong>
     </td>
     <td align="center">
-        <img src="https://cdn.discordapp.com/avatars/144458450192171008/13a3e66d73d216974504b8aad257b7b4.png" width="25px;" /><br />
+        <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png" width="25px;" /><br />
         <strong>SweetLilyCake</strong>
     </td>
     <td align="center">
-        <img src="https://cdn.discordapp.com/avatars/398951709336010793/eb6f63eb2f3a5102fb900e60d1a26cdc.png" width="25px;" /><br />
+        <img src="https://avatars.githubusercontent.com/u/49527417?v=4" width="25px;" /><br />
         <strong>GameKuchen</strong>
     </td>
     <td align="center">

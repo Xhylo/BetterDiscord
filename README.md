@@ -17,7 +17,7 @@
 
 BetterDiscord is a client modification for Discord. This allows you to add plugins and themes to your personal copy of Discord. BetterDiscord also adds a number of other features out of the box.
 
-# Installation
+# Installation:
 
 ## Auto Installers
 
@@ -31,7 +31,7 @@ Grab the `zip` file from [here](https://github.com/BetterDiscord/Installer/relea
 Grab the `AppImage` file from [here](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage).
 
 
-## Manual Installation
+## Manual Installation:
 
 For normal users, installing via the installers makes the most sense. However when wanting to either develop BetterDiscord, or when the installers do not work, this option can be used.
 
@@ -42,7 +42,7 @@ For normal users, installing via the installers makes the most sense. However wh
 3. Build both the Injector and Renderer bundles with `npm run build` this will create a `injector.js`, `preload.js`, and `renderer.js` in the `dist` folder.
 4. Run the inject script to inject the local files into your Discord client (`npm run inject`). Alternately install it to non-stable using `npm run inject canary`.
 
-# FAQ
+# FAQ:
 
 ### What is this?
 This is a client modification for Discord. It allows you to add plugins and themes to your client. Plugins can add functionality and useful features. Themes can completely change the look and feel of Discord.
@@ -50,7 +50,7 @@ This is a client modification for Discord. It allows you to add plugins and them
 BD has some other built-in features such as Emotes from Twitch, FFZ, and BBTV, as well as an in-client server browser.
 
 ### Where can I get plugins and themes?
-The easiest way to find plugins and themes is to browse them on [our website: https://betterdiscord.app/](https://betterdiscord.app/). Additionally, in our [support servers](#support-servers) we have channels with lists of <u>official</u> plugins and themes.
+The easiest way to find plugins and themes is to browse them on [our website: https://betterdiscord.app/](https://betterdiscord.app/). Additionally, in our support servers we have channels with lists of <u>official</u> plugins and themes.
 
 ### Support Servers?
 There are two: [The main server](https://discord.gg/bnSUxedypU), and [the backup](https://discord.gg/XqSpb9e3dq).
